@@ -1,0 +1,5 @@
+Model,Test Accuracy (%)
+Basic CNN,72.08
+CNN + Data Augmentation,41.88
+CNN + Batch Normalization,71.07
+Deeper CNN,56.60
